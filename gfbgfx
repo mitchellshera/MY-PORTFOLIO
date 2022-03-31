@@ -1,0 +1,30 @@
+<section class="projects" id="projects">
+      <h2 class="projects-title">Some of my Recent Projects</h2>
+      <div class="project-contaner">
+       <div class="project-container project-card">
+        <img
+          src="assets/images/email/Screenshot (3).png "
+          alt="netflic-clone"
+          loading="lazy"
+          class="project-pic"
+        />
+        <h3 class="project-title">E-mail</h3>
+        <p class="project-details">
+          This is a front-end for an email client that makes API calls to send and receive emails.
+        </p>
+        <a href="https://github.com/mitchellshera/email-website" target="_blank" class="project-link">Check it Out</a>
+       </div>
+       <div class="project-container project-card">
+          <img
+            src="assets/images/fashion/Screenshot (22).png"
+            alt="greeny-earth"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">Fashion</h3>
+          <p class="project-details">
+            This project is about Womens fashion. The two categories; Professional and Casual. 
+          </p>
+          <a href="https://github.com/mitchellshera/fashion" target="_blank" class="project-link">Check it Out</a>
+       </div>
+      </div>
