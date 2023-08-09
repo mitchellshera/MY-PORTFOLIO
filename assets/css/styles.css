@@ -61,11 +61,11 @@ nav {
 }
 
 nav h1 {
-  color: var(--primary-color);
+  color: black;
 }
 
 nav a {
-  color: var(--primary-color);
+  color: black;
   transition: var(--transition);
 }
 nav a:hover {
@@ -97,7 +97,7 @@ nav ul li {
   justify-content: center;
   gap: 2.5rem;
   max-width: 170.75rem;
-  background-color: wheat;
+  background-color: #edecea;
   margin: auto;
 
 }
@@ -108,6 +108,7 @@ nav ul li {
   margin-top: 20px;
   margin-left: 50px;
   border-radius: 50%;
+  margin-bottom:40px;
 
 }
 
