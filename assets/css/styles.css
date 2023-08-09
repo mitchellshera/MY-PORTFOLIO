@@ -437,8 +437,8 @@ footer {
     
     flex-direction: column;
     gap: 0;
-    height: 408px;
-    background-color: wheat;
+    height: 640px;
+    background-color: #edecea;
   }
 
   .hero img {
@@ -484,7 +484,7 @@ footer {
 
 @media screen and (max-width: 420px) {
   .hero{
-    height: 451px;
+    height: 580px;
 
   }
   .hero img {
